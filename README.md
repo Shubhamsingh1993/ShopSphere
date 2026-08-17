@@ -1,39 +1,45 @@
-# ShopSphere
+# ShopSphere 🛍️
 
-ShopSphere is a responsive e-commerce frontend built with React and Vite.
+A modern and responsive e-commerce frontend built with React and Vite.
 
-## Features
+ShopSphere provides a clean shopping experience with product browsing, search, cart management, and a simple checkout flow.
 
-- Responsive modern storefront
+## 🚀 Features
+
+- Responsive e-commerce storefront
+- Product browsing and product cards
 - Product search
-- Category filtering
-- Price and rating sorting
-- Product detail pages
-- Add-to-cart functionality
-- Quantity controls
-- LocalStorage cart persistence
-- Checkout flow with demo order confirmation
-- Mobile-friendly layout
+- Add to cart functionality
+- Shopping cart
+- Checkout page
+- Clean and modern UI
+- Responsive design for different screen sizes
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- React
+- React.js
 - Vite
-- React Router
-- CSS
-- LocalStorage
+- JavaScript
+- HTML5
+- CSS3
 
-## Run locally
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Products
+![Products](screenshots/products.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
+
+## ⚙️ Installation
+
+Clone the repository:
 
 ```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-> This is a frontend portfolio/demo project. Payment and order processing are simulated.
+git clone https://github.com/Shubhamsingh1993/ShopSphere.git
